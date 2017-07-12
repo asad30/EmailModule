@@ -1,0 +1,75 @@
+﻿body 
+{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background-image:url(/Email/images/bg_content.jpg);
+}
+div
+{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+.columnFirst
+{
+width:100px;
+float:left;
+padding: 5px 5px 5px 5px;
+}
+.columnSecond
+{
+width:850px;
+float:left;
+padding: 5px 5px 5px 5px;
+}
+.columnMulti
+{
+width:300px;
+float:left;
+padding: 5px 5px 5px 5px;
+}
+.division
+{
+	float:left;
+	width:450px;
+}
+.msg
+{
+	color:Green;
+}
+.error
+{
+	color:Red;
+}
+.headerLeft
+{
+	-moz-background-clip:border;
+	-moz-background-inline-policy:continuous;
+	-moz-background-origin:padding;
+	background:transparent url(/Email/images/bg_left.jpg) no-repeat scroll 0 0;
+	width:152px;
+	height:100%;
+	float:left;
+}
+.headerRight
+{
+	float:left;
+}
+
+.headerTop
+{
+	background-image:url(/Email/images/bg_header.jpg);
+	height:133px;
+	width:100%;
+}
+.clear
+{
+	clear:both;
+}
+.content
+{
+}
+.BodyContainer
+{
+	padding-left:20px;
+	width:1000px;
+}

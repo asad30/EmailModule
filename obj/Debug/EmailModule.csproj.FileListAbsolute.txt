@@ -1,0 +1,12 @@
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll.config
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\EmailModule.pdb
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\DAL.dll
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\Entity.dll
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\Utils.dll
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\DAL.pdb
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\Entity.pdb
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\bin\Utils.pdb
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.csprojResolveAssemblyReference.cache
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.dll
+C:\Users\asad_\Desktop\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.pdb

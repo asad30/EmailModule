@@ -1,0 +1,106 @@
+﻿	body 
+	{
+		margin:0px 0px 0px 0px;
+		padding:0px 0px 0px 0px;
+		background-image:url(/Email/images/bg_content.jpg);
+	}
+	.leftText
+    {
+        width: 320px; 
+        text-align: left; 
+        float: left;
+    }
+    .middleText
+    {
+        width: 240px;
+        text-align: center; 
+        float: right; 
+        vertical-align:middle;
+    }
+    .bottomText
+    {
+        margin: -15px 0px 5px 0px; 
+        text-align: left;
+    }
+    .Para
+    {
+        font-family: Arial; 
+        font-weight: bold; 
+        font-size: 18px; 
+        font-style: italic;
+    }
+    .imageHolder
+    {
+        width: 600px; 
+        text-align: center;
+    }
+    .titleHolder
+    {
+        width: 620px; 
+        margin: 10px 0px 10px 0px;
+    }
+    .Title
+    {
+        font-family: Times New Roman; 
+        font-weight: bold; 
+        font-style: italic;
+    }
+    .boxHolder
+    {
+        background-color: #2F5B8A; 
+        font-family: Arial; 
+        font-weight: bold; 
+        color: White;
+        width: 600px;
+        padding: 5px 0px 5px 0px;
+    }
+    .boxFirstcol
+    {
+        padding: 5px 5px 5px 15px; 
+        float: left; 
+        width: 90px;
+    }
+    .boxSecondcol
+    {
+        padding: 5px 5px 5px 5px; 
+        float: left; 
+        z-index: 100;
+    }
+    .friendSection
+    {
+        width: 600px; 
+        margin-top: 15px; 
+        font-family: Arial; 
+        font-weight: bold;
+    }
+    .friendFirstcol
+    {
+        padding: 5px 5px 5px 5px; 
+        float: left; 
+        width: 20px;
+    }
+    .friendColumn
+    {
+        padding: 5px 5px 5px 5px; 
+        float: left; 
+        z-index: 100; 
+        width: 270px;
+    }
+    .subjectText
+    {
+        padding: 20px 0px 0px 0px; 
+        font-family: Arial; 
+        font-weight: bold;
+    }
+    .lightPadding
+    {
+        padding: 5px 5px 5px 5px;
+    }
+    .buttonDiv
+    {
+        text-align: center; 
+        padding-top: 10px; 
+        width: 500px;
+        padding-bottom:50px;
+        padding-left:140px;
+    }

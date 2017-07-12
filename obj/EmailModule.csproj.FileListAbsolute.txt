@@ -1,0 +1,55 @@
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\EmailModule.pdb
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\DAL.dll
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\Entity.dll
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\Utils.dll
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\Utils.pdb
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\Entity.pdb
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\bin\DAL.pdb
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.dll
+C:\Documents and Settings\Asad\My Documents\Asad\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.pdb
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\EmailModule.pdb
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\DAL.dll
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\Entity.dll
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\Utils.dll
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\Entity.pdb
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\Utils.pdb
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\bin\DAL.pdb
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.dll
+C:\Users\Asad\Desktop\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.pdb
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\EmailModule.pdb
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\DAL.dll
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\Entity.dll
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\Utils.dll
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\Entity.pdb
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\Utils.pdb
+E:\TBR\EmailModule\EmailModule\EmailModule\bin\DAL.pdb
+E:\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\ResolveAssemblyReference.cache
+E:\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.dll
+E:\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.pdb
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\EmailModule.pdb
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\DAL.dll
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Entity.dll
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Utils.dll
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Entity.pdb
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Utils.pdb
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\DAL.pdb
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\ResolveAssemblyReference.cache
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.dll
+E:\Asad\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.pdb
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\EmailModule.dll
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\EmailModule.pdb
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\DAL.dll
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Entity.dll
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Utils.dll
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Entity.pdb
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\Utils.pdb
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\bin\DAL.pdb
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\ResolveAssemblyReference.cache
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.dll
+F:\E\Asad\TBR\EmailModule\EmailModule\EmailModule\obj\Debug\EmailModule.pdb
